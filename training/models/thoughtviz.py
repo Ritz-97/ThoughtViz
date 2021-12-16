@@ -4,7 +4,7 @@ from keras.layers import Reshape, LeakyReLU, Dropout
 from keras.layers.convolutional import Conv2D, UpSampling2D
 from keras.layers.convolutional import Conv2DTranspose
 from keras.layers.core import Activation
-from keras.layers.normalization import BatchNormalization
+from tensorflow.keras.layers import BatchNormalization
 from keras.models import Model
 from layers.mog_layer import MoGLayer
 from keras.regularizers import l2
