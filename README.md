@@ -1,4 +1,5 @@
-Credit:  All this Thoghtviz paper implementation. We are trying to reproduce the results. 
+Credit: This repository is forked from origional Gitgub of  Thoughtviz pape. We are trying to reproduce the results. 
+The main repository for this :-https://github.com/ptirupat/ThoughtViz
 
 
 
