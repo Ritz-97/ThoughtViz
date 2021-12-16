@@ -1,3 +1,8 @@
+Credit:  All this Thoghtviz paper implementation. We are trying to reproduce the results. 
+
+
+
+
 # ThoughtViz
 Implementation for the paper https://dl.acm.org/citation.cfm?doid=3240508.3240641
 
